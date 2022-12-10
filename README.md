@@ -1,7 +1,5 @@
 # Hora de Codar - em JAVA 2! 🖥️
 
-##
-
 Estamos nos primeiros passos de lógica de programação em JAVA!
 
 Agora é botar a mão novamente em uma pequena sequência de exercícios. 👏

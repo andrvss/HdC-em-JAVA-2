@@ -1,4 +1,4 @@
-# Hora de Codar - em JAVA 2! 🖥️
+# Hora de Codar 2 - em JAVA! 🖥️
 
 Estamos nos primeiros passos de lógica de programação em JAVA!
 
